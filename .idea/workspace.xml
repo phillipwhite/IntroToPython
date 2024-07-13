@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Added files for Sessions 3" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Added files for Sessions 3">
+      <change afterPath="$PROJECT_DIR$/Session 3/ComputerAverage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/PasswordMD5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session 3/PasswordMD5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Authentication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/BreakAndContinue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/CaesarCypher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/CaesarDecypher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/ConversionForLoop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/ConversionWhileLoop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/CountPositiveNegativeNumbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/DisplayLeapYears.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/GuessNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/IfInsteadOfBreakAndContinue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/InfiniteLoop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/InfiniteLoopWithCount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/LoopRange.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/LoopRangeWithStep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Q.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/StringSequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/SubstringDemo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/session3.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +74,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.HelloWorld.executor": "Run",
     "Python.Password.executor": "Run",
+    "Python.PasswordCounter.executor": "Run",
+    "Python.PasswordMD5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -154,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720861858037</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added files for Sessions 3">
+      <option name="closed" value="true" />
+      <created>1720862224945</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720862224945</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
