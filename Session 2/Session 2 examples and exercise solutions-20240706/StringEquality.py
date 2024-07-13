@@ -1,7 +1,0 @@
-print('hello' == 'hello')
-print('hello' == 'Hello')
-print('dog' != 'cat')
-print(True == True)
-print(True != False)
-print(42 == 42.0)
-print(42 == '42')

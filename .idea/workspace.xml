@@ -4,31 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Added files for Sessions 3">
-      <change afterPath="$PROJECT_DIR$/Session 3/ComputerAverage.py" afterDir="false" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Deleted files and folder in Session 3 and 4">
+      <change afterPath="$PROJECT_DIR$/Session 3/forloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 3/milesToKilometers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session 3/printChatAtLoc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/PasswordMD5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session 3/PasswordMD5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Authentication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Break.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/BreakAndContinue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/CaesarCypher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/CaesarDecypher.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Continue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/ConversionForLoop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/ConversionWhileLoop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/CountPositiveNegativeNumbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/DisplayLeapYears.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/GuessNumber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/IfInsteadOfBreakAndContinue.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/InfiniteLoop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/InfiniteLoopWithCount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/LoopRange.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/LoopRangeWithStep.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/Q.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/StringSequence.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/SubstringDemo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/session3.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 1/Session 1 examples and exercise solutions-20240706/Exercise_1_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 1/Session 1 examples and exercise solutions-20240706/Exercise_1_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 1/Session 1 examples and exercise solutions-20240706/Exercise_1_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 1/Session 1 examples and exercise solutions-20240706/Exercise_1_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 1/Session 1 examples and exercise solutions-20240706/Exercise_1_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 1/session1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/CheckNumberDivisor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/ChineseZodiacSign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/ComputeLoanPayments.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/Exercise_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/Exercise_2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/Exercise_2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/GradingStudents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/IfAlice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/Introspection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/LeapYear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/LeapYearOptimised.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/Modulus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/Password.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/PasswordAndLogin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/StringConcatenation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/StringEquality.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/Session 2 examples and exercise solutions-20240706/Variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 2/session2.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +80,9 @@
     "Python.Password.executor": "Run",
     "Python.PasswordCounter.executor": "Run",
     "Python.PasswordMD5.executor": "Run",
+    "Python.forloops.executor": "Run",
+    "Python.milesToKilometers.executor": "Run",
+    "Python.printChatAtLoc.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -85,6 +92,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
     </key>
   </component>
@@ -189,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720862224945</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Deleted files and folder in Session 3 and 4">
+      <option name="closed" value="true" />
+      <created>1720864227118</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720864227118</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +215,7 @@
     <MESSAGE value="Added folders for Sessions 3 and 4" />
     <MESSAGE value="Added files for Sessions 3 and 4" />
     <MESSAGE value="Added files for Sessions 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files for Sessions 3" />
+    <MESSAGE value="Deleted files and folder in Session 3 and 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted files and folder in Session 3 and 4" />
   </component>
 </project>
