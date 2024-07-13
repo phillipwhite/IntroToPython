@@ -11,7 +11,7 @@ password_entered = ''
 
 while hashlib.md5(password_entered.encode('utf-8')).hexdigest() != PASSWORDhash:
     password_entered = input("Enter the password : ")
-    if password_entered == PASSWORD:
+    if hashlib.md5(password_entered.encode('utf-8')).hexdigest() == PASSWORDhash:
         print("Access Granted!")
     else:
         print("Forbidden!")
