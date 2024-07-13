@@ -7,5 +7,3 @@ while password_entered != PASSWORD:
         print("Access Granted!")
     else:
         print("Forbidden!")
-
-

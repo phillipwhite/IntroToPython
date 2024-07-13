@@ -8,4 +8,3 @@ while password_entered != PASSWORD:
     else:
         print("Forbidden!")
 
-

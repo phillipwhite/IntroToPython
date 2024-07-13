@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Added folders for Sessions 3 and 4">
-      <change afterPath="$PROJECT_DIR$/Session 3/GuessNumber.py" afterDir="false" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Added files for Sessions 3 and 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/GuessNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session 3/Password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/GuessNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session 3/Session 3 examples and exercise solutions-20240713/GuessNumber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +50,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.HelloWorld.executor": "Run",
+    "Python.Password.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Phil/PycharmProjects/IntroToPython/Session 3",
     "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="IntroToPython" />
@@ -117,12 +126,29 @@
       <option name="project" value="LOCAL" />
       <updated>1720811663992</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added files for Sessions 3 and 4">
+      <option name="closed" value="true" />
+      <created>1720859966687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720859966687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added files for Sessions 3 and 4">
+      <option name="closed" value="true" />
+      <created>1720860044222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720860044222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Hello World in Session 1" />
     <MESSAGE value="Added folders for Sessions 3 and 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added folders for Sessions 3 and 4" />
+    <MESSAGE value="Added files for Sessions 3 and 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files for Sessions 3 and 4" />
   </component>
 </project>
