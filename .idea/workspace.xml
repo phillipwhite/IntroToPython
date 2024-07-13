@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="hash password">
-      <change afterPath="$PROJECT_DIR$/Session 4/Shuffle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session 4/Zodiac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session 4/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session 4/listOfInts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session 4/listOfRandomNumbers.py" afterDir="false" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="session 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -213,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720870068698</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="session 4">
+      <option name="closed" value="true" />
+      <created>1720875795312</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720875795312</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,6 +227,7 @@
     <MESSAGE value="Deleted files and folder in Session 3 and 4" />
     <MESSAGE value="format miles and kilos" />
     <MESSAGE value="hash password" />
-    <option name="LAST_COMMIT_MESSAGE" value="hash password" />
+    <MESSAGE value="session 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="session 4" />
   </component>
 </project>
