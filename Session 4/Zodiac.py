@@ -1,0 +1,1 @@
+zodiac_list = ["monkey", "rooster", ]
