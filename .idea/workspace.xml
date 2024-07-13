@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Added Hello World in Session 1">
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Added folders for Sessions 3 and 4">
+      <change afterPath="$PROJECT_DIR$/Session 3/GuessNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "phillipwhite"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;phillipwhite&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/phillipwhite/IntroToPython.git",
-    "accountId": "a91db009-5632-4f9d-aff2-10a50470cda2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/phillipwhite/IntroToPython.git&quot;,
+    &quot;accountId&quot;: &quot;a91db009-5632-4f9d-aff2-10a50470cda2&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -48,7 +49,8 @@
     "Python.HelloWorld.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
 }]]></component>
   <component name="RunManager">
@@ -104,11 +106,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720810392614</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added folders for Sessions 3 and 4">
+      <option name="closed" value="true" />
+      <created>1720811663992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720811663992</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Hello World in Session 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Hello World in Session 1" />
+    <MESSAGE value="Added folders for Sessions 3 and 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added folders for Sessions 3 and 4" />
   </component>
 </project>
