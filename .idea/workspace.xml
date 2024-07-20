@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="session 4">
-      <change afterPath="$PROJECT_DIR$/Session 6/Example.py" afterDir="false" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="session 5 max of two numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session 5/Example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session 5/Example.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 5" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
     </key>
   </component>
@@ -226,7 +227,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720878185324</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="session 5 max of two numbers">
+      <option name="closed" value="true" />
+      <created>1721465329332</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465329332</updated>
+    </task>
+    <task id="LOCAL-00015" summary="session 5 max of two numbers">
+      <option name="closed" value="true" />
+      <created>1721465434960</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465434960</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,6 +255,7 @@
     <MESSAGE value="format miles and kilos" />
     <MESSAGE value="hash password" />
     <MESSAGE value="session 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="session 4" />
+    <MESSAGE value="session 5 max of two numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="session 5 max of two numbers" />
   </component>
 </project>
