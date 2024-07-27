@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="folders renamed">
-      <change afterPath="$PROJECT_DIR$/Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5/defaultArgs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session5/localVars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/Capital.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/Example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/Session 6.1 examples and exercise solutions-20240720/example5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/Session6_1/ListOfCountries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/createfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session6/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session7/Example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session7/Geometric.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session7/Loan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session7/TV.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session5/MyTestGCD.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5/MyTestGCD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/Loan.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/Loan.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -318,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721468817896</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="folders renamed">
+      <option name="closed" value="true" />
+      <created>1722081968288</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722081968288</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
