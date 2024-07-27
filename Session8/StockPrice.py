@@ -28,9 +28,11 @@ class Stock:
 
 
     def getChangePercent(self):
-        return (((self.__currentPrice - self.__previousClosingPrice) \
-            / self.__previousClosingPrice) - 1) * 100
+        return ((self.__currentPrice - self.__previousClosingPrice) \
+            / self.__previousClosingPrice) * 100
 
 
 intelStock = Stock("INTC", "Intel Corporation",
                    20.5, 20.35)
+
+print(intelStock.getChangePercent())
