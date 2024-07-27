@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="folders renamed">
-      <change beforePath="$PROJECT_DIR$/Session7/Loan.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session7/Loan.py" afterDir="false" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Loan">
+      <change afterPath="$PROJECT_DIR$/Session8/StockPrice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session7/Geometric.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session8/Geometric.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +68,7 @@
     "Python.Rectangle.executor": "Run",
     "Python.SetListPerformanceTest.executor": "Run",
     "Python.Shuffle.executor": "Run",
+    "Python.StockPrice.executor": "Run",
     "Python.TV.executor": "Run",
     "Python.Test Sum.executor": "Run",
     "Python.TestGCDFunction.executor": "Run",
@@ -94,6 +97,7 @@
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session8" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session5" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 5" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
@@ -311,7 +315,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722081968288</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="folders renamed">
+      <option name="closed" value="true" />
+      <created>1722082158880</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1722082158880</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Loan">
+      <option name="closed" value="true" />
+      <created>1722082238934</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722082238935</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -325,6 +345,7 @@
     <MESSAGE value="session 4" />
     <MESSAGE value="session 5 max of two numbers" />
     <MESSAGE value="folders renamed" />
-    <option name="LAST_COMMIT_MESSAGE" value="folders renamed" />
+    <MESSAGE value="Loan" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loan" />
   </component>
 </project>
