@@ -4,23 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="session 5 nprintln">
-      <change afterPath="$PROJECT_DIR$/Session6/Sum_Two_Numbers_Sess6.py" afterDir="false" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="folders renamed">
+      <change afterPath="$PROJECT_DIR$/Example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5/defaultArgs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session5/localVars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/Capital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/Example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/Example5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/Session 6.1 examples and exercise solutions-20240720/example5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/Session6_1/ListOfCountries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/createfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session6/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/Example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/Geometric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/Loan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session7/TV.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 2/test_leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session2/test_leap_year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/ComputerAverage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3/ComputerAverage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/Password.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3/Password.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/PasswordCounter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3/PasswordCounter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/PasswordMD5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3/PasswordMD5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/forloops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3/forloops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/milesToKilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3/milesToKilometers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 3/printChatAtLoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session3/printChatAtLoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 4/Shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4/Shuffle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 4/Zodiac.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4/Zodiac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 4/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4/example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 4/listOfInts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4/listOfInts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 4/listOfRandomNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session4/listOfRandomNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session 5/Example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session5/MyTestGCD.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session5/MyTestGCD.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,9 @@
     &quot;accountId&quot;: &quot;a91db009-5632-4f9d-aff2-10a50470cda2&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Session7/Rectangle.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -61,36 +64,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Password.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PasswordCounter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PasswordMD5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Shuffle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TestGCDFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forloops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listOfInts.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listOfRandomNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.milesToKilometers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.printChatAtLoc.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Phil/PycharmProjects/IntroToPython/Session 6&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.python&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Capital.executor": "Run",
+    "Python.Example.executor": "Run",
+    "Python.Example1.executor": "Run",
+    "Python.Example2.executor": "Run",
+    "Python.Example5.executor": "Run",
+    "Python.Geometric.executor": "Run",
+    "Python.HelloWorld.executor": "Run",
+    "Python.MyTestGCD.executor": "Run",
+    "Python.Password.executor": "Run",
+    "Python.PasswordCounter.executor": "Run",
+    "Python.PasswordMD5.executor": "Run",
+    "Python.Rectangle.executor": "Run",
+    "Python.SetListPerformanceTest.executor": "Run",
+    "Python.Shuffle.executor": "Run",
+    "Python.TV.executor": "Run",
+    "Python.Test Sum.executor": "Run",
+    "Python.TestGCDFunction.executor": "Run",
+    "Python.createfile.executor": "Run",
+    "Python.defaultArgs.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.files.executor": "Run",
+    "Python.forloops.executor": "Run",
+    "Python.listOfInts.executor": "Run",
+    "Python.listOfRandomNumbers.executor": "Run",
+    "Python.localVars.executor": "Run",
+    "Python.milesToKilometers.executor": "Run",
+    "Python.printChatAtLoc.executor": "Run",
+    "Python.test_leap_year.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Phil/PycharmProjects/IntroToPython/Session6/Session6_1",
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session6\Session6_1" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 6" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session5" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 5" />
       <recent name="C:\Users\Phil\PycharmProjects\IntroToPython\Session 3" />
     </key>
@@ -118,8 +137,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IntroToPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Session7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Session7/Rectangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Rectangle" />
         <item itemvalue="Python.HelloWorld" />
       </list>
     </recent_temporary>
@@ -268,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721466982659</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="folders renamed">
+      <option name="closed" value="true" />
+      <created>1721468817895</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721468817896</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -281,6 +331,7 @@
     <MESSAGE value="hash password" />
     <MESSAGE value="session 4" />
     <MESSAGE value="session 5 max of two numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="session 5 max of two numbers" />
+    <MESSAGE value="folders renamed" />
+    <option name="LAST_COMMIT_MESSAGE" value="folders renamed" />
   </component>
 </project>
