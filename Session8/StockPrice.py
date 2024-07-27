@@ -26,7 +26,6 @@ class Stock:
     def setCurrentPrice(self, currentPrice):
         self.__currentPrice = currentPrice
 
-
     def getChangePercent(self):
         return ((self.__currentPrice - self.__previousClosingPrice) \
             / self.__previousClosingPrice) * 100

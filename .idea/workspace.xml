@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Loan">
-      <change afterPath="$PROJECT_DIR$/Session8/StockPrice.py" afterDir="false" />
+    <list default="true" id="4ddf0563-3283-43cd-9b54-ff6390737ee2" name="Changes" comment="Intel">
+      <change afterPath="$PROJECT_DIR$/Session8/BMI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Session7/Geometric.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session8/Geometric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Session8/StockPrice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Session8/StockPrice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.BMI.executor": "Run",
     "Python.Capital.executor": "Run",
     "Python.Example.executor": "Run",
     "Python.Example1.executor": "Run",
@@ -331,7 +332,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722082238935</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Intel">
+      <option name="closed" value="true" />
+      <created>1722083952729</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1722083952729</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Intel">
+      <option name="closed" value="true" />
+      <created>1722084047843</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1722084047843</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -346,6 +363,7 @@
     <MESSAGE value="session 5 max of two numbers" />
     <MESSAGE value="folders renamed" />
     <MESSAGE value="Loan" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loan" />
+    <MESSAGE value="Intel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intel" />
   </component>
 </project>
